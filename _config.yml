@@ -9,12 +9,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "Half of me as a machine and the other half of me as a human never stop learning from each other."
+title: Xiang Bai, Half Machine
+subtitle: "Half machine and half human never cease learning from each other."
 email: xiangd.bai@gmail.com
 name: Xiang Bai
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  Playground for a business data analyst
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
